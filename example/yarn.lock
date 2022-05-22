@@ -1127,10 +1127,10 @@
   dependencies:
     "@hapi/hoek" "^8.3.0"
 
-"@jannelei/typescript-react-test@^1.0.1":
-  version "1.0.1"
-  resolved "https://registry.yarnpkg.com/@jannelei/typescript-react-test/-/typescript-react-test-1.0.1.tgz#a152d65961dd70091a1cebcde81cc182b0e712e6"
-  integrity sha512-jxSMEFFYkTYCCvNbgfBV8lDzyw1pFFvqTl8U5/MgVx6HSc4aViEARUt+ZQORB1U+4k2Bn574ehZpKnhfqouKKQ==
+"@jannelei/typescript-react-test@^1.0.4":
+  version "1.0.4"
+  resolved "https://registry.yarnpkg.com/@jannelei/typescript-react-test/-/typescript-react-test-1.0.4.tgz#25803b951ee8786943b9050c056760caa335ed6c"
+  integrity sha512-XMKMcO28sGj3b5dp/eTszAP//IrWZjx7m1846yY5Ngn+jBdBg2PLbLQpUWShu2l6X4IqcUNfLNmVV6IVVqRa+w==
 
 "@jest/console@^24.7.1", "@jest/console@^24.9.0":
   version "24.9.0"
