@@ -1,6 +1,6 @@
 {
   "name": "@jannelei/typescript-react-test",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Learning how to create React modules using TypeScript!",
   "main": "./lib/cjs/index.js",
   "module": "./lib/esm/index.js",
