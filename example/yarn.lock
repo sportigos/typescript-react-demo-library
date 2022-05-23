@@ -1127,11 +1127,6 @@
   dependencies:
     "@hapi/hoek" "^8.3.0"
 
-"@jannelei/typescript-react-test@^1.0.4":
-  version "1.0.4"
-  resolved "https://registry.yarnpkg.com/@jannelei/typescript-react-test/-/typescript-react-test-1.0.4.tgz#25803b951ee8786943b9050c056760caa335ed6c"
-  integrity sha512-XMKMcO28sGj3b5dp/eTszAP//IrWZjx7m1846yY5Ngn+jBdBg2PLbLQpUWShu2l6X4IqcUNfLNmVV6IVVqRa+w==
-
 "@jest/console@^24.7.1", "@jest/console@^24.9.0":
   version "24.9.0"
   resolved "https://registry.yarnpkg.com/@jest/console/-/console-24.9.0.tgz#79b1bc06fb74a8cfb01cbdedf945584b1b9707f0"
@@ -1318,6 +1313,11 @@
   version "0.3.3"
   resolved "https://registry.yarnpkg.com/@sheerun/mutationobserver-shim/-/mutationobserver-shim-0.3.3.tgz#5405ee8e444ed212db44e79351f0c70a582aae25"
   integrity sha512-DetpxZw1fzPD5xUBrIAoplLChO2VB8DlL5Gg+I1IR9b2wPqYIca2WSUxL5g1vLeR4MsQq1NeWriXAVffV+U1Fw==
+
+"@sportigos/typescript-react-test@^1.0.0":
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/@sportigos/typescript-react-test/-/typescript-react-test-1.0.0.tgz#53e552882bc9278eadc6e955aa9df1700c6d2f23"
+  integrity sha512-438krtlABuLiCEc7CZEPtFtHfO/3lQHfo9uaSXmXPbQADL65M99A5ysAPsbxV/J10dPzvXh+sK3YE2RvzvDxgg==
 
 "@svgr/babel-plugin-add-jsx-attribute@^4.2.0":
   version "4.2.0"

@@ -1,5 +1,5 @@
 import React from "react";
-import { Widget } from "@jannelei/typescript-react-test";
+import { Widget } from "@sportigos/typescript-react-test";
 // import { Widget } from "./lib";
 import "./App.css";
 
